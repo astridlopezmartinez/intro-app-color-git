@@ -9,7 +9,7 @@ $(document).ready(function () {
         $('#hexCode').text(hexColor);
         $('#colorPicker').val(hexColor);
     }
-
+/*comrntario*/
     function syncInputs() {
         $('#redInput').val($('#redRange').val());
         $('#greenInput').val($('#greenRange').val());
